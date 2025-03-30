@@ -4,16 +4,17 @@
 
 - 🌱 As an QA Auto, I currently have experience with **Python и JS/TS**
 
-- 📫 How to reach me: **wheelman4000@gmail.com**
-
-- 📄 About experience <a href="https://www.linkedin.com/in/swifty32/" target="_blank">**Linkedin**</a>
+- 📄 About experience 👉 <a href="https://www.linkedin.com/in/swifty32/" target="_blank">**Linkedin**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/swifty32/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="mailto:wheelman4000@gmail.com" target="_blank">
+            <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30"/></a>
 </p>
 
 ### Languages and Tools:
+
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
