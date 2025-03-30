@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/Kickgodx" target="_blank">Denis</a> - QA Automation engineer</h1>
 <h3 align="center"> </h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/coding.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/coding.gif">
 
 - 🌱 As an QA Auto, I currently have experience with **Python и JS/TS**
 
